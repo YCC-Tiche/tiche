@@ -25,7 +25,7 @@ export default function Login() {
         <button 
           onClick={() => signIn()}
           type="button" 
-          className="text-center"
+          className="text-center bg-blue-300"
         >
           로그인하기
         </button>
